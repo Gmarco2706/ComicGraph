@@ -1,6 +1,0 @@
-pandas
-numpy
-matplotlib
-seaborn
-ipykernel
-neo4j>=5.0.0
